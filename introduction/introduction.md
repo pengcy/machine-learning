@@ -21,7 +21,17 @@ Supervised learning and Unsupervised learning.
 
 ### Supervised learning
 
-Given the data with an answer.
+Given the data with an answer. Two types of problem in supervised learning, regression and classification.
+
+#### Regression problems:
+
+Given a large number of inventory, predict how many of them will sell over the next 3 months.
+
+Given a picture of a person, we have to predict their age on the basis of the given picture.
+
+#### Classification problems:
+
+Given a patient with a tumor, we have to predict whether the tumor is malignant or benign.
 
 Given email labeled as spam/not spam, learn a spam filter.
 
