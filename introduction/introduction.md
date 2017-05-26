@@ -25,19 +25,19 @@ Given the data with an answer. Two types of problem in supervised learning, regr
 
 #### Regression problems:
 
-Given data about the size of houses on the real estate market, try to predict their price.
+* Given data about the size of houses on the real estate market, try to predict their price.
 
-Given a large number of inventory, predict how many of them will sell over the next 3 months.
+* Given a large number of inventory, predict how many of them will sell over the next 3 months.
 
-Given a picture of a person, we have to predict their age on the basis of the given picture.
+* Given a picture of a person, we have to predict their age on the basis of the given picture.
 
 #### Classification problems:
 
-Given a patient with a tumor, we have to predict whether the tumor is malignant or benign.
+* Given a patient with a tumor, we have to predict whether the tumor is malignant or benign.
 
-Given email labeled as spam/not spam, learn a spam filter.
+* Given email labeled as spam/not spam, learn a spam filter.
 
-Given a dataset of patients diagnosed as either having diabetes or not, learn to classify new patients as having diabetes or not.
+* Given a dataset of patients diagnosed as either having diabetes or not, learn to classify new patients as having diabetes or not.
 
 ### Unsupervised learning
 
