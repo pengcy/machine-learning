@@ -25,6 +25,8 @@ Given the data with an answer. Two types of problem in supervised learning, regr
 
 #### Regression problems:
 
+Given data about the size of houses on the real estate market, try to predict their price.
+
 Given a large number of inventory, predict how many of them will sell over the next 3 months.
 
 Given a picture of a person, we have to predict their age on the basis of the given picture.
