@@ -46,3 +46,7 @@ Given the data without an answer, let the computer to group things.
 Given a set of news articles found on the web, group the into set of articles about the same story.
 
 Given a database of custom data, automatically discover market segments and group customers into different market segments.
+
+Clustering: Take a collection of 1,000,000 different genes, and find a way to automatically group these genes into groups that are somehow similar or related by different variables, such as lifespan, location, roles, and so on.
+
+Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in a chaotic environment. (i.e. identifying individual voices and music from a mesh of sounds at a cocktail party).
